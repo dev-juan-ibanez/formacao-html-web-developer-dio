@@ -21,12 +21,13 @@ A Formação HTML Web Developer é uma jornada de aprendizado que aborda desde o
 - Outras: `<hr>`, `<sub>`, `<sup>`, `<del>`, `<abbr>`
 
 **Estrutura do Projeto:**
+```
 desafio-1/
 ├── index.html
 ├── conceitos-basicos.html
 ├── estrutura-html.html
 └── referencias.html
-
+```
 
 ### 🏥 Desafio 2 - Website para Clínica Médica
 **Módulo 02: HTML I - Conceitos Básicos**
@@ -42,12 +43,13 @@ desafio-1/
 - ✅ Layout estruturado com header, menu, content e footer
 
 **Páginas Desenvolvidas:**
+```
 desafio-2/
 ├── index.html (Página Principal)
 ├── sobre.html (Sobre a Clínica)
 ├── horario.html (Horário de Atendimento)
 └── contato.html (Contato)
-
+```
 
 **Recursos Utilizados:**
 - Formulários com validação
@@ -72,6 +74,7 @@ desafio-2/
 - ✅ Layout responsivo
 
 **Estrutura do Projeto:**
+```
 desafio-3/
 ├── index.html
 ├── assets/
@@ -84,7 +87,7 @@ desafio-3/
 │ ├── aurelino-leal.jpg
 │ ├── assembleia-legislativa.jpg
 │ └── campanha-eleitoral.jpg
-
+```
 
 **Características Técnicas:**
 - Layout em grid CSS
